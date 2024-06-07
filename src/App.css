@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.footer{
+  bottom: 0;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.serviceimg{
+  background-color: grey;
+  border-radius: 20px;
+  padding: 20px;
+}
